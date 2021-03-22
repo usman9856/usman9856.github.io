@@ -1,0 +1,30 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+body
+{
+    background-color: whitesmoke;
+    margin-left: 150px;
+    
+}
+
+
+td
+{
+    font-family: cursive;
+    font-size:large;
+   margin: 50px;
+    
+
+}
+
+img 
+{
+  margin: center;
+}
+
